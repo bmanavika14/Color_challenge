@@ -27,7 +27,7 @@ body {
 }
 
 .game-over {
-  background-color: red;
+  background-color: black;
   opacity: 0.8;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 .blue {
-  background-color: blue;
+  background-color: orange;
 }
 
 .yellow {
